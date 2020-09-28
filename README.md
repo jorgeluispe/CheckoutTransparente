@@ -1,4 +1,4 @@
-# checkout transparente, teste ithappens
+# checkout transparente, teste PULSE
 
 Aplicação utilizando Spring Boot, MySQL, JPA e Hibernate.
 
